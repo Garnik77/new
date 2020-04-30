@@ -2,7 +2,7 @@
   "name": "react-kabzda-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Garnik77/new/",
+  "homepage": "http://Garnik77.github.io/new1",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.6.3",
@@ -10,8 +10,8 @@
     "react-scripts": "2.1.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+
+    "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
